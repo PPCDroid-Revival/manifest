@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="ppcdroid"
-	   fetch="git://github.com/ppcdroid/"
+	   fetch="https://github.com/PPCDroid-Revival/"
 	   review="" />
   <default revision="gingerbread-ppc"
            remote="ppcdroid"
