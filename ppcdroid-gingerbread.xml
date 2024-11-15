@@ -103,7 +103,7 @@
   <project path="external/srec" name="external-srec" />
   <project path="external/stlport" name="external-stlport" />
   <project path="external/strace" name="external-strace" />
-  <project path="external/svox" name="external-svox" />
+  <!--project path="external/svox" name="external-svox" />-->
   <project path="external/tagsoup" name="external-tagsoup" />
   <project path="external/tcpdump" name="external-tcpdump" />
   <project path="external/tinyxml" name="external-tinyxml" />

@@ -123,7 +123,7 @@
   <project name="external-srec" />
   <project name="external-stlport" />
   <project name="external-strace" />
-  <project name="external-svox" />
+  <!--project name="external-svox" />-->
   <project name="external-tagsoup" />
   <project name="external-tcpdump" />
   <project name="external-tinyxml" />
